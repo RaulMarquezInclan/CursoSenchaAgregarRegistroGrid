@@ -1,0 +1,249 @@
+{
+  "artistas": [
+    {
+      "id": "3",
+      "artista": "Mogwai",
+      "album": "Every Country's Sun",
+      "genero": "Post-rock",
+      "disquera": "Rock Action",
+      "productor": "Dave Fridmann"
+    },
+    {
+      "id": "4",
+      "artista": "Orchestral Manoeuvres in the Dark",
+      "album": "The Punishment of Luxury",
+      "genero": "Synth-pop",
+      "disquera": "White Noise",
+      "productor": "Orchestral Manoeuvres in the Dark"
+    },
+    {
+      "id": "5",
+      "artista": "Alter Bridge",
+      "album": "Live at the O2 Arena + Rarities",
+      "genero": "Hard rock, heavy metal, post-grunge, alternative metal",
+      "disquera": "Napalm",
+      "productor": ""
+    },
+    {
+      "id": "6",
+      "artista": "Anna of the North",
+      "album": "Lovers",
+      "genero": "Synth-pop",
+      "disquera": "",
+      "productor": ""
+    },
+    {
+      "id": "7",
+      "artista": "Living Colour",
+      "album": "Shade",
+      "genero": "",
+      "disquera": "Megaforce",
+      "productor": "Andre Betts"
+    },
+    {
+      "id": "8",
+      "artista": "The National",
+      "album": "Sleep Well Beast",
+      "genero": "Indie rock, post-punk revival",
+      "disquera": "4AD",
+      "productor": "Aaron Dessner, Bryce Dessner, Matt Berninger"
+    },
+    {
+      "id": "9",
+      "artista": "Sparks",
+      "album": "Hippopotamus",
+      "genero": "",
+      "disquera": "BMG",
+      "productor": "Ron Mael, Russell Mael"
+    },
+    {
+      "id": "10",
+      "artista": "Kip Moore",
+      "album": "Slowheart",
+      "genero": "Country",
+      "disquera": "MCA Nashville",
+      "productor": "David Garcia, Kip Moore"
+    },
+    {
+      "id": "11",
+      "artista": "Tori Amos",
+      "album": "Native Invader",
+      "genero": "",
+      "disquera": "Decca",
+      "productor": ""
+    },
+    {
+      "id": "12",
+      "artista": "Trickfinger",
+      "album": "Trickfinger II",
+      "genero": "Acid house, IDM, electro",
+      "disquera": "AcidTest",
+      "productor": "Trickfinger"
+    },
+    {
+      "id": "13",
+      "artista": "Arcane Roots",
+      "album": "Melancholia Hymns",
+      "genero": "Alternative rock, post-hardcore, metalcore, electronica",
+      "disquera": "Easy Life Records, Red Essential Records",
+      "productor": ""
+    },
+    {
+      "id": "14",
+      "artista": "Fall Out Boy",
+      "album": "Mania",
+      "genero": "",
+      "disquera": "DCD2, Island",
+      "productor": "Jamie xx, Patrick Stump, Pete Wentz"
+    },
+    {
+      "id": "15",
+      "artista": "Foo Fighters",
+      "album": "Concrete and Gold",
+      "genero": "Rock",
+      "disquera": "Roswell Records, RCA",
+      "productor": "Greg Kurstin"
+    },
+    {
+      "id": "16",
+      "artista": "Madonna",
+      "album": "Rebel Heart Tour",
+      "genero": "",
+      "disquera": "Boy Toy, Live Nation, Interscope",
+      "productor": "Danny Tull, Nathan Rissman"
+    },
+    {
+      "id": "17",
+      "artista": "Prophets of Rage",
+      "album": "Prophets of Rage",
+      "genero": "",
+      "disquera": "Fantasy",
+      "productor": ""
+    },
+    {
+      "id": "18",
+      "artista": "Wyclef Jean",
+      "album": "The Carnival Vol. III: The Fall & Rise of a Refugee",
+      "genero": "Hip hop",
+      "disquera": "Heads Music",
+      "productor": "The Knocks, Supah Mario"
+    },
+    {
+      "id": "19",
+      "artista": "Chelsea Wolfe",
+      "album": "Hiss Spun",
+      "genero": "",
+      "disquera": "Sargent House",
+      "productor": ""
+    },
+    {
+      "id": "20",
+      "artista": "The Clientele",
+      "album": "Music for the Age of Miracles",
+      "genero": "Indie rock",
+      "disquera": "Merge",
+      "productor": ""
+    },
+    {
+      "id": "21",
+      "artista": "Cradle of Filth",
+      "album": "Cryptoriana – The Seductiveness of Decay",
+      "genero": "Extreme metal",
+      "disquera": "Nuclear Blast",
+      "productor": "Scott Atkins"
+    },
+    {
+      "id": "22",
+      "artista": "Hurts",
+      "album": "Desire",
+      "genero": "Synth-pop",
+      "disquera": "",
+      "productor": ""
+    },
+    {
+      "id": "23",
+      "artista": "Shania Twain",
+      "album": "Now",
+      "genero": "Country pop",
+      "disquera": "Mercury Nashville",
+      "productor": "Ron Aniello, Matthew Koma"
+    },
+    {
+      "id": "24",
+      "artista": "Wolf Alice",
+      "album": "Visions of a Life",
+      "genero": "Alternative rock",
+      "disquera": "Dirty Hit",
+      "productor": "Justin Meldal-Johnsen"
+    },
+    {
+      "id": "25",
+      "artista": "Camila Cabello",
+      "album": "The Hurting. The Healing. The Loving.",
+      "genero": "",
+      "disquera": "Epic, Syco, Sony",
+      "productor": "Benny Blanco, Happy Perez, Cashmere Cat, Pharrell Williams, Ryan Tedder, Stargate, Max Martin, Ilya"
+    },
+    {
+      "id": "26",
+      "artista": "Charli XCX",
+      "album": "TBA",
+      "genero": "Pop, progressive pop",
+      "disquera": "Asylum",
+      "productor": "Sophie, Stargate"
+    },
+    {
+      "id": "27",
+      "artista": "Ne-Yo",
+      "album": "Good Man",
+      "genero": "",
+      "disquera": "Compound, Motown",
+      "productor": "Cirkut, Dr. Luke, Stargate"
+    },
+    {
+      "id": "28",
+      "artista": "Sam Smith",
+      "album": "TBA",
+      "genero": "",
+      "disquera": "",
+      "productor": "Clean Bandit, Timbaland"
+    },
+    {
+      "artista": "Mogwai",
+      "album": "Every Country's Sun",
+      "genero": "Post-rock",
+      "disquera": "Rock Action",
+      "productor": "Dave Fridmann",
+      "id": "SJeTHonQb"
+    },
+    {
+      "artista": "Mogwai",
+      "album": "Every Country's Sun",
+      "genero": "Post-rock",
+      "disquera": "Rock Action",
+      "productor": "Dave Fridmann",
+      "id": "B1R18inmZ"
+    },
+    {
+      "album": "Every Country's Sun",
+      "genero": "Post-rock",
+      "disquera": "Rock Action",
+      "productor": "Dave Fridmann",
+      "id": "ByJzUjhQ-"
+    },
+    {
+      "album": "Every Country's Sun",
+      "genero": "Post-rock",
+      "disquera": "Rock Action",
+      "productor": "Dave Fridmann",
+      "id": "r1mz8in7Z"
+    },
+    {
+      "album": "Every Country's Sun",
+      "genero": "Post-rock",
+      "disquera": "Rock Action",
+      "productor": "Dave Fridmann",
+      "id": "rJVMUs2mb"
+    }
+  ]
+}

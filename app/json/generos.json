@@ -1,0 +1,56 @@
+{
+	"generos": [
+		{
+			"id": "1",
+			"genero": "Pop"
+		},
+		{
+			"id": "2",
+			"genero": "Rock"
+		},
+		{
+			"id": "3",
+			"genero": "Post-rock"
+		},
+		{
+			"id": "4",
+			"genero": "Synth-pop"
+		},
+		{
+			"id": "5",
+			"genero": "Hard rock"
+		},
+		{
+			"id": "6",
+			"genero": "Indie rock"
+		},
+		{
+			"id": "7",
+			"genero": "Country"
+		},
+		{
+			"id": "8",
+			"genero": "Acid house"
+		},
+		{
+			"id": "9",
+			"genero": "Alternative rock"
+		},
+		{
+			"id": "10",
+			"genero": "Hip hop"
+		},
+		{
+			"id": "11",
+			"genero": "Extreme metal"
+		},
+		{
+			"id": "12",
+			"genero": "Synth-pop"
+		},
+		{
+			"id": "13",
+			"genero": "Country pop"
+		}
+	]
+}
