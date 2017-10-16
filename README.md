@@ -4,30 +4,29 @@ Fuentes del curso de Sencha ExtJs AgregarRegistroGrid.
 <h3>REQUERIMIENTOS TECNICOS</h3>
 
 Visual Studio Code (o IDE preferido)
-	https://code.visualstudio.com/
+- https://code.visualstudio.com/
 	
 NodeJS (npm (current))
-	https://nodejs.org/en/
-	Modulo json-server (npm install -g json-server)
+- https://nodejs.org/en/
+- Modulo json-server (npm install -g json-server)
 	
 WinRar
-	http://www.rarlab.com/download.htm
-
+- http://www.rarlab.com/download.htm
 
 <h3>PREPARAR AMBIENTE PARA SENCHA</h3>
 
-Visitar la pagina de version de evaluacion de Sencha ExtJS:
+<p>Visitar la pagina de version de evaluacion de Sencha ExtJS:</p>
 https://www.sencha.com/products/extjs/evaluate/
-	Llenar la forma con la informacion requerida
-	Se mandara al correo especificado la liga de descarga para el framework ExtJS
-	Descargar ExtJS
+- Llenar la forma con la informacion requerida
+- Se mandara al correo especificado la liga de descarga para el framework ExtJS
+- Descargar ExtJS
 
-Descargar Sencha Cmd de la siguiente liga:
+<p>Descargar Sencha Cmd de la siguiente liga:</p>
 https://www.sencha.com/products/extjs/cmd-download/
-	Instalar Sencha Cmd con opciones default
-	Agregar la ruta C:\Users\{nombreUsuario}\bin\Sencha\Cmd a las variables de entorno (Path)
+- Instalar Sencha Cmd con opciones default
+- Agregar la ruta C:\Users\{nombreUsuario}\bin\Sencha\Cmd a las variables de entorno (Path)
 
-Descomprimir framework ExtJS en la ruta C:\Users\{nombreUsuario}\bin\Sencha\Cmd
+<p>Descomprimir framework ExtJS en la ruta C:\Users\{nombreUsuario}\bin\Sencha\Cmd</p>
 
 <h3>CREAR APLICACION INICIAL</h3>
 
