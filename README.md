@@ -15,8 +15,8 @@ WinRar
 
 <h3>PREPARAR AMBIENTE PARA SENCHA</h3>
 
-<p>Visitar la pagina de version de evaluacion de Sencha ExtJS:</p>
-<span>https://www.sencha.com/products/extjs/evaluate/</span>
+Visitar la pagina de version de evaluacion de Sencha ExtJS:
+https://www.sencha.com/products/extjs/evaluate/
 
 - Llenar la forma con la informacion requerida
 - Se mandara al correo especificado la liga de descarga para el framework ExtJS
