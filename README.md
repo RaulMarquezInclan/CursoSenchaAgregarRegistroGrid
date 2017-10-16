@@ -1,7 +1,7 @@
 # CursoSenchaAgregarRegistroGrid
 Fuentes del curso de Sencha ExtJs AgregarRegistroGrid.
 
-REQUERIMIENTOS TECNICOS
+<h3>REQUERIMIENTOS TECNICOS</h3>
 
 Visual Studio Code (o IDE preferido)
 	https://code.visualstudio.com/
@@ -14,7 +14,7 @@ WinRar
 	http://www.rarlab.com/download.htm
 
 
-PREPARAR AMBIENTE PARA SENCHA
+<h3>PREPARAR AMBIENTE PARA SENCHA</h3>
 
 Visitar la pagina de version de evaluacion de Sencha ExtJS:
 https://www.sencha.com/products/extjs/evaluate/
@@ -29,7 +29,7 @@ https://www.sencha.com/products/extjs/cmd-download/
 
 Descomprimir framework ExtJS en la ruta C:\Users\{nombreUsuario}\bin\Sencha\Cmd
 
-CREAR APLICACION INICIAL
+<h3>CREAR APLICACION INICIAL</h3>
 
 Crear carpeta "cursosencha" en el escritorio
 
@@ -37,21 +37,21 @@ En la consola de comandos (cmd o dentro de VSC) posicionarse en la carpeta recie
 
 Ejecutar los siguientes comandos:
 
-	sencha -sdk C:/Users/Raul/bin/Sencha/Cmd/6.5.0.180 generate app CA ./ -classic
+sencha -sdk C:/Users/Raul/bin/Sencha/Cmd/6.5.0.180 generate app CA ./ -classic
 	
-	(Copia el framework a la carpeta de la aplicacion a desarrollar, ademas genera la estructura de archivos, carpetas y configuraciones iniciales, tambien una aplicacion demo. La opcion "-classic" especifica que se utilizara la version para escritorio (en lugar de la version mobil, la cual se especifica con "-modern"))
+(Copia el framework a la carpeta de la aplicacion a desarrollar, ademas genera la estructura de archivos, carpetas y configuraciones iniciales, tambien una aplicacion demo. La opcion "-classic" especifica que se utilizara la version para escritorio (en lugar de la version mobil, la cual se especifica con "-modern"))
 	
-	sencha app build
+sencha app build
 	
-	(Genera el codigo HTML, JavaScript y CSS resultante en la carpeta "build")
+(Genera el codigo HTML, JavaScript y CSS resultante en la carpeta "build")
 	
-	sencha app watch
+sencha app watch
 	
-	(Habilita la ejecucion de la aplicacion, lanza un servido sencillo, la URL default es http://localhost:1841/. Tambien al estar en ejecucion detecta cambios hechos en el codigo)
+(Habilita la ejecucion de la aplicacion, lanza un servido sencillo, la URL default es http://localhost:1841/. Tambien al estar en ejecucion detecta cambios hechos en el codigo)
 	
 Entrar a la URL http://localhost:1841/ en el navegador para mostrar la aplicacion demo
 
-DESCRIPCION DE LA PRACTICA
+<h3>DESCRIPCION DE LA PRACTICA</h3>
 
 Desarrollar una forma para captura de informacion de albums de musica
 
@@ -68,19 +68,12 @@ Desarrollar funcionalidad para cargar un album seleccionado del grid en la forma
 TEMAS A TOCAR
 
 - Herencia
-
 - Componentes
-
 - Eventos
-
 - ViewController
-
 - Comunicacion entre componentes
-
 - Carga de datos
-
 - Ajax
-
 - JSON
 
 Sencha ExtJS
