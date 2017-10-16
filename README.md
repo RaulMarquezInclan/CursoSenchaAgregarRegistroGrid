@@ -22,8 +22,9 @@ https://www.sencha.com/products/extjs/evaluate/
 - Se mandara al correo especificado la liga de descarga para el framework ExtJS
 - Descargar ExtJS
 
-<p>Descargar Sencha Cmd de la siguiente liga:</p>
+Descargar Sencha Cmd de la siguiente liga:
 https://www.sencha.com/products/extjs/cmd-download/
+
 - Instalar Sencha Cmd con opciones default
 - Agregar la ruta C:\Users\{nombreUsuario}\bin\Sencha\Cmd a las variables de entorno (Path)
 
@@ -39,7 +40,7 @@ Ejecutar los siguientes comandos:
 
 sencha -sdk C:/Users/Raul/bin/Sencha/Cmd/6.5.0.180 generate app CA ./ -classic
 	
-(Copia el framework a la carpeta de la aplicacion a desarrollar, ademas genera la estructura de archivos, carpetas y configuraciones iniciales, tambien una aplicacion demo. La opcion "-classic" especifica que se utilizara la version para escritorio (en lugar de la version mobil, la cual se especifica con "-modern"))
+	(Copia el framework a la carpeta de la aplicacion a desarrollar, ademas genera la estructura de archivos, carpetas y configuraciones iniciales, tambien una aplicacion demo. La opcion "-classic" especifica que se utilizara la version para escritorio (en lugar de la version mobil, la cual se especifica con "-modern"))
 	
 sencha app build
 	
