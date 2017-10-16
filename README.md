@@ -53,17 +53,12 @@ Entrar a la URL http://localhost:1841/ en el navegador para mostrar la aplicacio
 
 <h3>DESCRIPCION DE LA PRACTICA</h3>
 
-Desarrollar una forma para captura de informacion de albums de musica
-
-Desarrollar un grid donde se muestre un listado de albums de musica
-
-Desarrollar funcionalidad para limpiar los campos de la forma
-
-Mostrar mesnaje de validacion al no capturar los campos requeridos de la forma
-
-Desarrollar funcionalidad para agregar el album capturado en la forma al grid
-
-Desarrollar funcionalidad para cargar un album seleccionado del grid en la forma
+- Desarrollar una forma para captura de informacion de albums de musica
+- Desarrollar un grid donde se muestre un listado de albums de musica
+- Desarrollar funcionalidad para limpiar los campos de la forma
+- Mostrar mesnaje de validacion al no capturar los campos requeridos de la forma
+- Desarrollar funcionalidad para agregar el album capturado en la forma al grid
+- Desarrollar funcionalidad para cargar un album seleccionado del grid en la forma
 
 TEMAS A TOCAR
 
